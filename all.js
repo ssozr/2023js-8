@@ -1,5 +1,4 @@
-const api_path = "ssozr";
-const token = "iQGiLKVBazMn45KrXxwLAHJkuib2";
+
 
 //產品列表
 const productWrap = document.querySelector(".productWrap")
